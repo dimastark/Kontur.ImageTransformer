@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="452a9f6d-8c2a-45b7-a2f0-f2c03eb37c2d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Sepia.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Threshold.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/ImageFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscale.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7E044261-EBF8-4AEF-B905-088EEDE92C11/db/d62bba0a/ImageExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7E044261-EBF8-4AEF-B905-088EEDE92C11/eb/7155c643/SepiaProcessor`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/IFilter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/Program.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/Utils/UrlPatterns.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscal.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscale.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Sepia.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Base.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Threshold.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/ImageFilter.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/IFilter.cs" />
+        <option value="$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Kontur.ImageTransformer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Kontur.ImageTransformer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Kontur.ImageTransformer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Kontur.ImageTransformer/bin/Debug/Kontur.ImageTransformer.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kontur.ImageTransformer/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Kontur.ImageTransformer/Kontur.ImageTransformer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452a9f6d-8c2a-45b7-a2f0-f2c03eb37c2d" name="Default" comment="" />
+      <created>1513193112887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513193112887</updated>
+      <workItem from="1513193115530" duration="3190000" />
+      <workItem from="1514312761889" duration="401000" />
+      <workItem from="1514314223062" duration="2031000" />
+      <workItem from="1517421397335" duration="6068000" />
+      <workItem from="1517504392034" duration="2685000" />
+      <workItem from="1517507177640" duration="2877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.509375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28666666" sideWeight="0.490625" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.490625" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>image.Mutate</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>image</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>image.Mutate(x =&gt; x.Sepia())</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.Request.Files.Count()</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.Request.Files.Length</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.Request.Files[0]</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.Request.Files</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.Request</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>body.Read()</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1517509240728" expanded="false" signature="6:222" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="257:2477" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="270:387" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="438:2475" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="569:850" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="911:1280" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1375:2064" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1750:2052" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1831:2038" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1915:2020" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2147:2469" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2203:2458" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2237:2332" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2354:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscale.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1517506098034" expanded="true" signature="75:429" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="118:427" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="197:217" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="291:421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/IFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Threshold.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1517507127904" expanded="true" signature="75:844" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="118:547" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="251:320" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="394:541" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="608:842" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="779:836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1514316266287" expanded="true" signature="33:397" ph="{...}" />
+            <marker date="1514316266287" expanded="true" signature="71:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517421592021" expanded="false" signature="6:39" ph="..." />
+            <marker date="1517421592021" expanded="true" signature="74:559" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="110:557" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="163:551" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="292:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1517509240728" expanded="false" signature="6:222" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="257:2477" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="270:387" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="438:2475" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="569:850" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="911:1280" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1375:2064" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1750:2052" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1831:2038" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1915:2020" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2147:2469" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2203:2458" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2237:2332" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2354:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscale.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1517506098034" expanded="true" signature="75:429" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="118:427" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="197:217" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="291:421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/ImageFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="73" lean-forward="false" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+          <folding>
+            <marker date="1517507127906" expanded="false" signature="6:55" ph="..." />
+            <marker date="1517507127906" expanded="true" signature="103:1065" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="153:699" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="278:488" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="561:693" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="734:1063" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="943:1057" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Sepia.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1517506147198" expanded="true" signature="75:417" ph="{...}" />
+            <marker date="1517506147198" expanded="true" signature="114:415" ph="{...}" />
+            <marker date="1517506147198" expanded="true" signature="189:209" ph="{...}" />
+            <marker date="1517506147198" expanded="true" signature="283:409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Threshold.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517507127904" expanded="true" signature="75:844" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="118:547" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="251:320" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="394:541" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="608:842" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="779:836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1514316266287" expanded="true" signature="33:397" ph="{...}" />
+            <marker date="1514316266287" expanded="true" signature="71:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517421592021" expanded="false" signature="6:39" ph="..." />
+            <marker date="1517421592021" expanded="true" signature="74:559" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="110:557" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="163:551" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="292:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517509240728" expanded="false" signature="6:222" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="257:2477" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="270:387" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="438:2475" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="569:850" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="911:1280" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1375:2064" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1750:2052" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1831:2038" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1915:2020" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2147:2469" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2203:2458" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2237:2332" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2354:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1514316266287" expanded="true" signature="33:397" ph="{...}" />
+            <marker date="1514316266287" expanded="true" signature="71:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517421592021" expanded="false" signature="6:39" ph="..." />
+            <marker date="1517421592021" expanded="true" signature="74:559" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="110:557" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="163:551" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="292:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1514316266287" expanded="true" signature="33:397" ph="{...}" />
+            <marker date="1514316266287" expanded="true" signature="71:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517509240728" expanded="false" signature="6:222" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="257:2477" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="270:387" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="438:2475" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="569:850" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="911:1280" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1375:2064" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1750:2052" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1831:2038" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1915:2020" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2147:2469" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2203:2458" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2237:2332" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2354:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517421592021" expanded="false" signature="6:39" ph="..." />
+            <marker date="1517421592021" expanded="true" signature="74:559" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="110:557" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="163:551" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="292:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1514316266287" expanded="true" signature="33:397" ph="{...}" />
+            <marker date="1514316266287" expanded="true" signature="71:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517509240728" expanded="false" signature="6:222" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="257:2477" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="270:387" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="438:2475" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="569:850" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="911:1280" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1375:2064" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1750:2052" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1831:2038" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1915:2020" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2147:2469" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2203:2458" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2237:2332" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2354:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/Utils/UrlPatterns.cs" />
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscal.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7E044261-EBF8-4AEF-B905-088EEDE92C11/eb/7155c643/SepiaProcessor`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7E044261-EBF8-4AEF-B905-088EEDE92C11/db/d62bba0a/ImageExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="904" column="72" lean-forward="false" selection-start-line="904" selection-start-column="72" selection-end-line="904" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/IFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1517507237450" expanded="true" signature="75:178" ph="{...}" />
+            <marker date="1517507237450" expanded="true" signature="106:176" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Threshold.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1517507127904" expanded="true" signature="75:844" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="118:547" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="251:320" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="394:541" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="608:842" ph="{...}" />
+            <marker date="1517507127904" expanded="true" signature="779:836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/EntryPoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1517421592021" expanded="false" signature="6:39" ph="..." />
+            <marker date="1517421592021" expanded="true" signature="74:559" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="110:557" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="163:551" ph="{...}" />
+            <marker date="1517421592021" expanded="true" signature="292:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/UrlPatterns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1514316266287" expanded="true" signature="33:397" ph="{...}" />
+            <marker date="1514316266287" expanded="true" signature="71:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Sepia.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1517506147198" expanded="true" signature="75:417" ph="{...}" />
+            <marker date="1517506147198" expanded="true" signature="114:415" ph="{...}" />
+            <marker date="1517506147198" expanded="true" signature="189:209" ph="{...}" />
+            <marker date="1517506147198" expanded="true" signature="283:409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/ImageFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <marker date="1517507127906" expanded="false" signature="6:55" ph="..." />
+            <marker date="1517507127906" expanded="true" signature="103:1065" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="153:699" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="278:488" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="561:693" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="734:1063" ph="{...}" />
+            <marker date="1517507127906" expanded="true" signature="943:1057" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/ImageFilters/Grayscale.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1517506098034" expanded="true" signature="75:429" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="118:427" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="197:217" ph="{...}" />
+            <marker date="1517506098034" expanded="true" signature="291:421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontur.ImageTransformer/RequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <marker date="1517509240728" expanded="false" signature="6:222" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="257:2477" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="270:387" ph="..." />
+            <marker date="1517509240728" expanded="true" signature="438:2475" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="569:850" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="911:1280" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1375:2064" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1750:2052" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1831:2038" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="1915:2020" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2147:2469" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2203:2458" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2237:2332" ph="{...}" />
+            <marker date="1517509240728" expanded="true" signature="2354:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

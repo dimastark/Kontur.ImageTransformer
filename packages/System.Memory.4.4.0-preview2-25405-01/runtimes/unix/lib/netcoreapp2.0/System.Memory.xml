@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Memory</name>
+    </assembly>
+    <members>
+        <member name="T:System.SpanExtensions">
+            <summary>
+            Extension methods for Span&lt;T&gt;.
+            </summary>
+            <summary>
+            Extension methods for Span&lt;T&gt;.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf``1(System.Span{``0},``0)">
+            <summary>
+            Searches for the specified value and returns the index of its first occurrence. If not found, returns -1. Values are compared using IEquatable&lt;T&gt;.Equals(T). 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The value to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf(System.Span{System.Byte},System.Byte)">
+            <summary>
+            Searches for the specified value and returns the index of its first occurrence. If not found, returns -1. 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The value to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf``1(System.Span{``0},System.ReadOnlySpan{``0})">
+            <summary>
+            Searches for the specified sequence and returns the index of its first occurrence. If not found, returns -1. Values are compared using IEquatable&lt;T&gt;.Equals(T). 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The sequence to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf(System.Span{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Searches for the specified sequence and returns the index of its first occurrence. If not found, returns -1.
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The sequence to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.SequenceEqual``1(System.Span{``0},System.ReadOnlySpan{``0})">
+            <summary>
+            Determines whether two sequences are equal by comparing the elements using IEquatable&lt;T&gt;.Equals(T). 
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.SequenceEqual(System.Span{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Determines whether two sequences are equal by comparing the elements.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf``1(System.ReadOnlySpan{``0},``0)">
+            <summary>
+            Searches for the specified value and returns the index of its first occurrence. If not found, returns -1. Values are compared using IEquatable&lt;T&gt;.Equals(T). 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The value to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf(System.ReadOnlySpan{System.Byte},System.Byte)">
+            <summary>
+            Searches for the specified value and returns the index of its first occurrence. If not found, returns -1. 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The value to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})">
+            <summary>
+            Searches for the specified sequence and returns the index of its first occurrence. If not found, returns -1. Values are compared using IEquatable&lt;T&gt;.Equals(T). 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The sequence to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOf(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Searches for the specified sequence and returns the index of its first occurrence. If not found, returns -1.
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value">The sequence to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOfAny(System.Span{System.Byte},System.Byte,System.Byte)">
+            <summary>
+            Searches for the first index of any of the specified values similar to calling IndexOf several times with the logical OR operator. If not found, returns -1.
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value0">One of the values to search for.</param>
+            <param name="value1">One of the values to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOfAny(System.Span{System.Byte},System.Byte,System.Byte,System.Byte)">
+            <summary>
+            Searches for the first index of any of the specified values similar to calling IndexOf several times with the logical OR operator. If not found, returns -1.
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value0">One of the values to search for.</param>
+            <param name="value1">One of the values to search for.</param>
+            <param name="value2">One of the values to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOfAny(System.Span{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Searches for the first index of any of the specified values similar to calling IndexOf several times with the logical OR operator. If not found, returns -1. 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="values">The set of values to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOfAny(System.ReadOnlySpan{System.Byte},System.Byte,System.Byte)">
+            <summary>
+            Searches for the first index of any of the specified values similar to calling IndexOf several times with the logical OR operator. If not found, returns -1.
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value0">One of the values to search for.</param>
+            <param name="value1">One of the values to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOfAny(System.ReadOnlySpan{System.Byte},System.Byte,System.Byte,System.Byte)">
+            <summary>
+            Searches for the first index of any of the specified values similar to calling IndexOf several times with the logical OR operator. If not found, returns -1. 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="value0">One of the values to search for.</param>
+            <param name="value1">One of the values to search for.</param>
+            <param name="value2">One of the values to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.IndexOfAny(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Searches for the first index of any of the specified values similar to calling IndexOf several times with the logical OR operator. If not found, returns -1. 
+            </summary>
+            <param name="span">The span to search.</param>
+            <param name="values">The set of values to search for.</param>
+        </member>
+        <member name="M:System.SpanExtensions.SequenceEqual``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})">
+            <summary>
+            Determines whether two sequences are equal by comparing the elements using IEquatable&lt;T&gt;.Equals(T). 
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.SequenceEqual(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Determines whether two sequences are equal by comparing the elements.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.StartsWith(System.Span{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Determines whether the specified sequence appears at the start of the span.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.StartsWith``1(System.Span{``0},System.ReadOnlySpan{``0})">
+            <summary>
+            Determines whether the specified sequence appears at the start of the span.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.StartsWith(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Determines whether the specified sequence appears at the start of the span.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.StartsWith``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})">
+            <summary>
+            Determines whether the specified sequence appears at the start of the span.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.AsSpan``1(``0[])">
+            <summary>
+            Creates a new  span over the portion of the target array.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.AsSpan``1(System.ArraySegment{``0})">
+            <summary>
+            Creates a new  span over the portion of the target array segment.
+            </summary>
+        </member>
+        <member name="M:System.SpanExtensions.CopyTo``1(``0[],System.Span{``0})">
+             <summary>
+             Copies the contents of the array into the span. If the source
+             and destinations overlap, this method behaves as if the original values in
+             a temporary location before the destination is overwritten.
+             
+            <param name="array">The array to copy items from.</param>
+             <param name="destination">The span to copy items into.</param>
+             <exception cref="T:System.ArgumentException">
+             Thrown when the destination Span is shorter than the source array.
+             </exception>
+             </summary>
+        </member>
+        <member name="M:System.SpanExtensions.AsBytes``1(System.Span{``0})">
+            <summary>
+            Casts a Span of one primitive type <typeparamref name="T"/> to Span of bytes.
+            That type may not contain pointers or references. This is checked at runtime in order to preserve type safety.
+            </summary>
+            <param name="source">The source slice, of type <typeparamref name="T"/>.</param>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <typeparamref name="T"/> contains pointers.
+            </exception>
+            <exception cref="T:System.OverflowException">
+            Thrown if the Length property of the new Span would exceed Int32.MaxValue.
+            </exception>
+        </member>
+        <member name="M:System.SpanExtensions.AsBytes``1(System.ReadOnlySpan{``0})">
+            <summary>
+            Casts a ReadOnlySpan of one primitive type <typeparamref name="T"/> to ReadOnlySpan of bytes.
+            That type may not contain pointers or references. This is checked at runtime in order to preserve type safety.
+            </summary>
+            <param name="source">The source slice, of type <typeparamref name="T"/>.</param>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <typeparamref name="T"/> contains pointers.
+            </exception>
+            <exception cref="T:System.OverflowException">
+            Thrown if the Length property of the new Span would exceed Int32.MaxValue.
+            </exception>
+        </member>
+        <member name="M:System.SpanExtensions.AsSpan(System.String)">
+            <summary>
+            Creates a new readonly span over the portion of the target string.
+            </summary>
+            <param name="text">The target string.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown when <paramref name="text"/> is null.</exception>
+        </member>
+        <member name="M:System.SpanExtensions.NonPortableCast``2(System.Span{``0})">
+            <summary>
+            Casts a Span of one primitive type <typeparamref name="TFrom"/> to another primitive type <typeparamref name="TTo"/>.
+            These types may not contain pointers or references. This is checked at runtime in order to preserve type safety.
+            </summary>
+            <remarks>
+            Supported only for platforms that support misaligned memory access.
+            </remarks>
+            <param name="source">The source slice, of type <typeparamref name="TFrom"/>.</param>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <typeparamref name="TFrom"/> or <typeparamref name="TTo"/> contains pointers.
+            </exception>
+            <exception cref="T:System.OverflowException">
+            Thrown if the Length property of the new Span would exceed Int32.MaxValue.
+            </exception>
+        </member>
+        <member name="M:System.SpanExtensions.NonPortableCast``2(System.ReadOnlySpan{``0})">
+            <summary>
+            Casts a ReadOnlySpan of one primitive type <typeparamref name="TFrom"/> to another primitive type <typeparamref name="TTo"/>.
+            These types may not contain pointers or references. This is checked at runtime in order to preserve type safety.
+            </summary>
+            <remarks>
+            Supported only for platforms that support misaligned memory access.
+            </remarks>
+            <param name="source">The source slice, of type <typeparamref name="TFrom"/>.</param>
+            <exception cref="T:System.ArgumentException">
+            Thrown when <typeparamref name="TFrom"/> or <typeparamref name="TTo"/> contains pointers.
+            </exception>
+            <exception cref="T:System.OverflowException">
+            Thrown if the Length property of the new Span would exceed Int32.MaxValue.
+            </exception>
+        </member>
+    </members>
+</doc>

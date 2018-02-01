@@ -1,0 +1,15 @@
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/Kontur.ImageTransformer.pdb
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/Kontur.ImageTransformer.exe
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/obj/Debug/Kontur.ImageTransformer.exe
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/obj/Debug/Kontur.ImageTransformer.pdb
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/Nancy.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/Nancy.Hosting.Self.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/SixLabors.Core.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/SixLabors.ImageSharp.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/System.Buffers.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/System.Memory.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/System.Numerics.Vectors.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/dimastark/repos/Kontur.ImageTransformer/Kontur.ImageTransformer/bin/Debug/System.ValueTuple.dll
