@@ -1,4 +1,6 @@
+.idea/
 packages/
 Kontur.ImageTransformer/bin/Debug
 Kontur.ImageTransformer/obj/Debug
+.DS_Store
 
