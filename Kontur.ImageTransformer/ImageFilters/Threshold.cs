@@ -4,17 +4,16 @@ namespace Kontur.ImageTransformer.ImageFilters
 {
     public class Threshold : ImageFilter
     {
-        private readonly int _thresholdX;
+        private readonly int thresholdX;
         
         public Threshold(ThresholdParameters parameters) : base(parameters)
         {
-            _thresholdX = parameters.ThresholdX;
+            thresholdX = parameters.ThresholdX;
         }
 
         public override Image<Rgba32> PerformFilter(Image<Rgba32> image)
         {
-            base.PerformFilter(image)
-                .Mutate(x => x.BinaryThreshold(_thresholdX));
+            base.PerformFilter(image).Mutate(x => x.BinaryThreshold(thresholdX));
 
             return image;
         }

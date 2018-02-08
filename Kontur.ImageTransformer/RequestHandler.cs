@@ -46,9 +46,7 @@ namespace Kontur.ImageTransformer
                 Contents = stream =>
                 {
                     using (var writer = new BinaryWriter(stream))
-                    {
                         writer.Write(image.SavePixelData());
-                    }
                 }
             };
 

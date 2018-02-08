@@ -5,11 +5,11 @@ namespace Kontur.ImageTransformer.ImageFilters
 {
     public abstract class ImageFilter : IFilter
     {
-        private readonly Rectangle _cropRectangle;
+        private readonly Rectangle cropRectangle;
         
         protected ImageFilter(FilterParameters parameters)
         {
-            _cropRectangle = new Rectangle(
+            cropRectangle = new Rectangle(
                 parameters.X, 
                 parameters.Y, 
                 parameters.Width, 
@@ -19,9 +19,7 @@ namespace Kontur.ImageTransformer.ImageFilters
 
         public virtual Image<Rgba32> PerformFilter(Image<Rgba32> image)
         {
-            image.Mutate(x => x
-                .Crop(_cropRectangle)
-            );
+            image.Mutate(x => x.Crop(cropRectangle));
 
             return image;
         }

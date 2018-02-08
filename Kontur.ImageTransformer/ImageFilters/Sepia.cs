@@ -10,8 +10,7 @@ namespace Kontur.ImageTransformer.ImageFilters
 
         public override Image<Rgba32> PerformFilter(Image<Rgba32> image)
         {
-            base.PerformFilter(image)
-                .Mutate(x => x.Sepia());
+            base.PerformFilter(image).Mutate(x => x.Sepia());
 
             return image;
         }
