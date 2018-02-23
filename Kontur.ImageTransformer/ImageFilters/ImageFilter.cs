@@ -17,11 +17,9 @@ namespace Kontur.ImageTransformer.ImageFilters
             );
         }
 
-        public virtual Image<Rgba32> PerformFilter(Image<Rgba32> image)
+        public virtual void PerformFilter(Image<Rgba32> image)
         {
             image.Mutate(x => x.Crop(cropRectangle));
-
-            return image;
         }
     }
 

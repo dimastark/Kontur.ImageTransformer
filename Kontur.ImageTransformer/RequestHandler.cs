@@ -35,10 +35,10 @@ namespace Kontur.ImageTransformer
             if (Request.Files.Count() != 1) 
                 return HttpStatusCode.BadRequest;
 
-            var file = Request.Files.First();
-            var image = Image.Load(file.Value);
+            var file = await Task.Run(() => Request.Files.First(), ctx);
+            var image = await Task.Run(() => Image.Load(file.Value), ctx);
             var filter = (ImageFilter)Factories[parameters.filter](parameters);
-            image = filter.PerformFilter(image);
+            await Task.Run(() => filter.PerformFilter(image), ctx);
 
             return new Response
             {

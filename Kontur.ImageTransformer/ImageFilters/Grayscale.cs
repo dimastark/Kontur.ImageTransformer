@@ -8,11 +8,10 @@ namespace Kontur.ImageTransformer.ImageFilters
         {
         }
 
-        public override Image<Rgba32> PerformFilter(Image<Rgba32> image)
+        public override void PerformFilter(Image<Rgba32> image)
         {
-            base.PerformFilter(image).Mutate(x => x.Grayscale());
-
-            return image;
+            base.PerformFilter(image);
+            image.Mutate(x => x.Grayscale());
         }
     }
 }
